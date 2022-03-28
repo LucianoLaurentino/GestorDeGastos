@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerente de Gastos</string>
+    <string name="total">Total</string>
+    <string name="expenses">Gastos</string>
+    <string name="incomes">Ingresos</string>
+    <string name="cb_market">Mercado</string>
+    <string name="cb_restaurant">Restaurante</string>
+    <string name="cb_wages">Salario</string>
+    <string name="cb_gift">Regalo/Donación</string>
+    <string name="cb_bills">Facturas</string>
+    <string name="cb_transport">Transporte</string>
+    <string name="cb_shopping">Compras</string>
+    <string name="income_value">Valor de ingreso:</string>
+    <string name="expense_value">Valor de gasto:</string>
+    <string name="other">Otro</string>
+    <string name="save">Salvar</string>
+    <string name="value">Introduce el valor</string>
+    <string name="expense_total">Gastos totales</string>
+    <string name="incomes_total">Ingreso totales</string>
+</resources>

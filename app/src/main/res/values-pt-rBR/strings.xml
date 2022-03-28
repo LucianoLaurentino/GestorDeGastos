@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestor de Gastos</string>
+    <string name="total">Total</string>
+    <string name="expenses">Despesas</string>
+    <string name="incomes">Renda</string>
+    <string name="cb_market">Mercado</string>
+    <string name="cb_restaurant">Restaurante</string>
+    <string name="cb_wages">Salário</string>
+    <string name="cb_gift">Presente/Doação</string>
+    <string name="cb_bills">Contas</string>
+    <string name="cb_transport">Transporte</string>
+    <string name="cb_shopping">Compras</string>
+    <string name="income_value">Valor de renda:</string>
+    <string name="expense_value">Valor de despesa:</string>
+    <string name="other">Outros</string>
+    <string name="save">Salvar</string>
+    <string name="value">Digite o valor</string>
+    <string name="expense_total">Total de Despesas</string>
+    <string name="incomes_total">Total de Renda</string>
+</resources>

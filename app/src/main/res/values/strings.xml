@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="total">Total</string>
+    <string name="expenses">Expenses</string>
+    <string name="incomes">Incomes</string>
+    <string name="cb_market">Market</string>
+    <string name="cb_restaurant">Restaurant</string>
+    <string name="cb_wages">Wages</string>
+    <string name="cb_gift">Gift/Donation</string>
+    <string name="cb_bills">Bills</string>
+    <string name="cb_transport">Transport</string>
+    <string name="cb_shopping">Shopping</string>
+    <string name="income_value">Income value:</string>
+    <string name="expense_value">Expense value:</string>
+    <string name="other">Other</string>
+    <string name="save">Save</string>
+    <string name="value">Enter the value</string>
+    <string name="expense_total">Expenses total</string>
+    <string name="incomes_total">Incomes total</string>
+</resources>
